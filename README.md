@@ -30,13 +30,6 @@
         <li><strong>Run the app:</strong></li>
         <pre style="background-color: #ecf0f1; padding: 10px; border-radius: 4px; overflow-x: auto;"><code>flutter run</code></pre>
     </ol>
-    <h2>API Integration</h2>
-    <p>The Weather App fetches real-time weather data using the <a href="https://openweathermap.org/">OpenWeatherMap API</a>. Make sure to get your API key from OpenWeatherMap and add it to the project as follows:</p>
-    <ol>
-        <li><strong>Create a <code style="background-color: #ecf0f1; padding: 2px 4px; border-radius: 4px;">.env</code> file in the root of your project.</strong></li>
-        <li><strong>Add your API key:</strong></li>
-        <pre style="background-color: #ecf0f1; padding: 10px; border-radius: 4px; overflow-x: auto;"><code>API_KEY=your_openweathermap_api_key</code></pre>
-    </ol>
     <h2>Screenshots</h2>
     <p><img src="https://github.com/user-attachments/assets/ead9c0cb-41f0-45f9-b10c-e05f7268154d" alt="Weather App Screenshot" style="width: 25%; max-width: 600px; height: auto;"></p>
     <h2>Contributing</h2>
